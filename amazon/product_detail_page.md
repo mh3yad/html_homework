@@ -1,0 +1,59 @@
+# HTML
+
+- [amazon PDP](https://www.amazon.eg/gp/aw/d/B092R5MCB3/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=0bf826a7fb610023d1b7efaddd85acd0&hsa_cr_id=0&qid=1783170113&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987&aref=ZZ7UgNgvdq&ref_=sbx_s_sparkle_sbtcd_asin_0_img&pd_rd_w=t4XWM&content-id=amzn1.sym.e828aff0-94e8-46fe-8e75-d74cee8b1533%3Aamzn1.sym.e828aff0-94e8-46fe-8e75-d74cee8b1533&pf_rd_p=e828aff0-94e8-46fe-8e75-d74cee8b1533&pf_rd_r=V2M4SNXJHQ9VWKHBJWCS&pd_rd_wg=BwH5o&pd_rd_r=a77def18-09f7-4f0b-a378-9436834dd7d5&th=1)
+- headers
+  - h1
+    - product title
+    - product info
+  - h2
+    - about this item
+    - frequantly bought together
+    - Products related to this item
+    - users see this see also
+    - products interest you
+    - product desc
+    - customer review
+  - h3
+    - top reviews from egypt
+    - top reviews from other country
+  - h5
+    - review text title
+    - nav footer more on Amazon  أمازون Advertising
+- p
+  - under product description
+  - brand snapshot
+  - Top brand
+  - review text body
+- a
+  - amazon.eg
+  - navbar elements
+- hr
+  - under product review and below
+- img
+  - product image
+  - review user image
+- Ul
+  - About this item
+  - reviews
+  - navFooterline
+  - navFooterMoreOnAmazon
+- select
+  - beside search input ALL
+  - quantity
+- Input
+  - text
+    - search input
+  - button
+    - Add to cart
+  - submit
+    - Buy now
+  - checkbox
+    - add protection plan
+- i icon
+  - previws icon
+- table
+  - under product desc
+  - features,styles,details
+
+- span
+  - all places
